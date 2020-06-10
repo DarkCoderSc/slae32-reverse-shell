@@ -1,2 +1,3 @@
-# slae32-reverse-shell
-SLAE32 Certification Assignment 2
+# SLAE32 Assignment 2 : Reverse Shell 
+
+This repository is part of the SLAE32 Certification process.
